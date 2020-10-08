@@ -6,10 +6,10 @@ Course materials are contained in this repository
 ## Scratch pad for the course:
 
 Instructor led code dissemination: <br>
-https://www.codepile.net/pile/Python-RP
+https://codeshare.io/Python-RP
 
 Help line, for instructor to help debug: <br>
-https://www.codepile.net/pile/Python-Help
+https://codeshare.io/Python-Help
 
 
 
